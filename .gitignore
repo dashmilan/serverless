@@ -1,0 +1,23 @@
+# Node dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+.env
+.env.local
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build outputs (frontend)
+frontend/dist/
+
+# Vercel output (optional if any custom output)
+.vercel/
